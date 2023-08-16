@@ -10,5 +10,6 @@ O programa deverá ser chamado em linha de comando no terminal da seguinte forma
 ./ ascii <nome=arquivo=imagem> <ncolunas> <nlinhas> <string>[.pgm ]
 
 Por exemplo :
+
 ./ asciicao.pgm 100 30 ”@$#*%o !=+;:˜ = ,. ”
 
