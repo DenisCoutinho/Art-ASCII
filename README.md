@@ -6,8 +6,9 @@ O usuário desse programa informa a imagem, o número de colunas e linhas da ima
 Instruções de uso:
 
 O programa deverá ser chamado em linha de comando no terminal da seguinte forma:
+
 ./ ascii <nome=arquivo=imagem> <ncolunas> <nlinhas> <string>[.pgm ]
 
-por exemplo :
+Por exemplo :
 ./ asciicao.pgm 100 30 ”@$#*%o !=+;:˜ = ,. ”
 
